@@ -12,7 +12,7 @@ function App() {
           <h1>ALaa Ahmad Deeb</h1>
           <h2>Engineer at a remittance company</h2>
           <p>alaaahmaddeeb60@gmail.com</p>
-          <p>+963952752398</p>
+          <p>0952752398</p>
         </div>
       </header>
       <footer className="App-footer">
